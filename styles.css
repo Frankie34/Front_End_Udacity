@@ -1,0 +1,29 @@
+.card{
+  width: 300px;
+  border:groove;
+  padding: 1em 2px 1em 2px;
+}
+.item {
+  font-style: italic;
+
+}
+.text{
+  padding: 1em 2px 1em 2px;
+  width: 290px;
+  border:groove;
+}
+#card-facts {
+  font-style: italic;
+}
+#card-list {
+  list-style: none;
+  font-weight: bolder;
+}
+#card-content{
+  border:groove;
+  width: 300px;
+  padding: 1em 2px 1em 2px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* add your CSS here */
